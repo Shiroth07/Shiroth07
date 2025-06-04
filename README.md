@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shiroth07
-- 👀 I’m interested in web and game development.
-- 🌱 I’m currently learning how to make apps.
-- 💞️ I’m looking to collaborate on other company websites and app development.
 - 📫 How to reach me -shiroth.shiyamalan@gmail.com
 
 <!---
